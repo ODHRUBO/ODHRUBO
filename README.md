@@ -8,11 +8,13 @@
 
 ## 👋 About Me
 
-I'm a passionate programmer with a strong foundation in **Data Structures and Algorithms**, and **Object-Oriented Programming**. My work primarily involves **Python**, **Java**, **C++**, and **C**, with a growing interest in **web development** using **CSS**. I enjoy building projects that solve problems and continuously learning new technologies.
+As a passionate learner in the world of programming, I've built a strong foundation in Data Structures and Algorithms and Object-Oriented Programming. I spend my time coding in Python, Java, C++, and C, and I'm excited about exploring web development using CSS. My favorite part is building projects that solve real problems and constantly picking up new skills.
 
--   🔭 I'm currently expanding my knowledge in **web programming** and exploring advanced **Python** applications.
--   🌱 I'm always eager to learn and improve my skills in various programming paradigms.
--   💬 Ask me about **Data Structures**, **Algorithms**, **Java**, or **Python**!
+🔭 Right now, I'm focusing on enhancing my web programming skills and digging into advanced Python concepts.
+
+🌱 The journey of learning new programming paradigms is something I truly enjoy.
+
+💬 If you have questions about Data Structures, Algorithms, Java, or Python, I'd be happy to chat!
 
 ---
 
@@ -26,14 +28,13 @@ Here are some of the technologies and programming languages I work with:
   <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="60" alt="C++">
   <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" width="60" alt="C">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60" alt="CSS">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60" alt="Dart">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60" alt="Flutter">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" alt="Firebase">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60" alt="VS Code">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" alt="Linux">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60" alt="Android">
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60" alt="Microsoft">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" alt="GitHub">
+  <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" width="60" alt="LaTeX">
+  <img src="https://www.vectorlogo.zone/logos/gnu_assembler/gnu_assembler-icon.svg" width="60" alt="Assembly Language">
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" alt="R Programming">
 </p>
 
 ---
