@@ -25,15 +25,15 @@ Here are some of the technologies and programming languages I work with:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60" alt="Python">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60" alt="Java">
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="60" alt="C++">
-  <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" width="60" alt="C">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="60" alt="C">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60" alt="CSS">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60" alt="VS Code">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" alt="Linux">
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60" alt="Microsoft">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" alt="GitHub">
   <img src="https://www.vectorlogo.zone/logos/latex/latex-icon.svg" width="60" alt="LaTeX">
-  <img src="https://www.vectorlogo.zone/logos/gnu_assembler/gnu_assembler-icon.svg" width="60" alt="Assembly Language">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Assembler_logo.svg" width="60" alt="Assembly Language">
   <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" alt="R Programming">
 </p>
 
